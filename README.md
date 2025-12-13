@@ -57,7 +57,7 @@ Hello! I'm **Nitesh Singh**, an undergraduate Economics student with a passion f
 
 ## 🔗 Connect With Me
 
-- **LinkedIn**: [linkedin.com/in/nitesh-singh](https://linkedin.com/in/nitesh-singh)
+- **LinkedIn**: [linkedin.com/in/nitesh-data](https://linkedin.com/in/nitesh-data)
 - **GitHub**: [@nitesh-data](https://github.com/nitesh-data)
 - **Email**: nitesh.singh23_ug@apu.edu.in
 
