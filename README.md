@@ -67,16 +67,5 @@ Hello! I'm **Nitesh Singh**, an undergraduate Economics student with a passion f
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nitesh-data&color=blue)
 
----
-
-## 🎯 Future Goals
-
-✨ Build a portfolio of econometric research projects  
-✨ Contribute to open-source data science projects  
-✨ Publish research papers on applied econometrics  
-✨ Develop tools for economic data analysis  
-✨ Land an internship in quantitative analysis or data science
-
----
 
 **Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate on data science or econometrics projects.** 🤝
