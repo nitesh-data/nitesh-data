@@ -1,0 +1,19 @@
+Package: geminiR
+Type: Package
+Title: R Client for the Google Gemini API
+Version: 0.1.0
+Authors@R: person(given = "Nitesh", family = "Singh", role = c("aut", "cre"), email = "nitesh.singh23_ug@apu.edu.in")
+Description: Lightweight helpers to call the Google Gemini API from R,
+    including one-shot text generation and basic multi-turn chat.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Depends:
+    R (>= 4.1.0)
+Imports:
+    httr2,
+    jsonlite
+URL: https://github.com/nitesh-data
+BugReports: https://github.com/nitesh-data/issues
